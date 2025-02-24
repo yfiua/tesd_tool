@@ -7,7 +7,7 @@ authors:
     given-names: Leon
     affiliation: "GESIS - Leibniz Institute for the Social Sciences"
     orcid: "https://orcid.org/0000-0002-5339-7019"
-version: 0.0.1
+version: 0.0.2
 date-released: "2025-01-27"
 license: MIT
 repository-code: "https://github.com/frohleon/tesd_tool"
