@@ -1,5 +1,6 @@
 ---
-title: "Total Error Sheets for Datasets (TES-D)"
+title: "TES-D"
+subtitle: "Total Error Sheets for Datasets"
 author: "Leon Fröhling"
 image: images/cover.png
 image-alt: A checklist.
